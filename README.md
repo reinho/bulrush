@@ -217,6 +217,7 @@ Here are few current users of Bulrush (or modified versions of it):
  - [Simon Says](https://simonsays.neocities.org/)
  - [CodeRobot](http://coderobot.downley.net/)
  - [Small Data](https://smalldata.dev/about.html)
+ - [Tiffstuff](https://tiffstuff.com)
 
 If you'd like to be featured here (or are and would prefer not to be), feel
 free to submit a [pull request][18].
